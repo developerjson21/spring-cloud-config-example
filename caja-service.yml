@@ -1,6 +1,6 @@
 server:
   port: 8885
 
-deno_billetes: 1000,2000,50000,100000
+deno_billetes: 1000,2000,10000,20000,50000,100000
 cant_max_efect: 500000
 message: Bienvenido al Servicio de caja!
